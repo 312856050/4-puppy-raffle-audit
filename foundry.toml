@@ -3,7 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 # solc-version = "0.8.27"
-# solc = "/Users/sunlong/software/solc"
+# solc = "/Users/sunlong/software/solc-0.8.26"
+solc = "/usr/local/bin/solc_0.8.26"
 
 remappings = ['@openzeppelin/contracts=lib/openzeppelin-contracts/contracts']
 
